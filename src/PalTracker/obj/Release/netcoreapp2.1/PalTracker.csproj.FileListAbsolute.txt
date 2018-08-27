@@ -1,0 +1,14 @@
+D:\Source\PAL\2\workspace\src\PalTracker\bin\Release\netcoreapp2.1\PalTracker.deps.json
+D:\Source\PAL\2\workspace\src\PalTracker\bin\Release\netcoreapp2.1\PalTracker.runtimeconfig.json
+D:\Source\PAL\2\workspace\src\PalTracker\bin\Release\netcoreapp2.1\PalTracker.runtimeconfig.dev.json
+D:\Source\PAL\2\workspace\src\PalTracker\bin\Release\netcoreapp2.1\PalTracker.dll
+D:\Source\PAL\2\workspace\src\PalTracker\bin\Release\netcoreapp2.1\PalTracker.pdb
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.csprojAssemblyReference.cache
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.csproj.CoreCompileInputs.cache
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.RazorAssemblyInfo.cache
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.RazorAssemblyInfo.cs
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.AssemblyInfoInputs.cache
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.AssemblyInfo.cs
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.RazorTargetAssemblyInfo.cache
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.dll
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Release\netcoreapp2.1\PalTracker.pdb
