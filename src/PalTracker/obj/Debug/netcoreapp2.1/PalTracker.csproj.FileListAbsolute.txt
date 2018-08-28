@@ -3,7 +3,6 @@ D:\Source\PAL\2\workspace\src\PalTracker\bin\Debug\netcoreapp2.1\PalTracker.runt
 D:\Source\PAL\2\workspace\src\PalTracker\bin\Debug\netcoreapp2.1\PalTracker.runtimeconfig.dev.json
 D:\Source\PAL\2\workspace\src\PalTracker\bin\Debug\netcoreapp2.1\PalTracker.dll
 D:\Source\PAL\2\workspace\src\PalTracker\bin\Debug\netcoreapp2.1\PalTracker.pdb
-D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.csprojAssemblyReference.cache
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.csproj.CoreCompileInputs.cache
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.RazorAssemblyInfo.cache
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.Asse
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.RazorTargetAssemblyInfo.cache
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.dll
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.pdb
+D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.csprojAssemblyReference.cache

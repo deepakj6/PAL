@@ -6,7 +6,14 @@ namespace PalTracker
     public class WelcomeController: Controller
     {
         [HttpGet]
-        public string SayHello() => "Hello!";
+        public string SayHello() => _message;
+
+        private string _message;
+
+        public WelcomeController(WelcomeMessage welcome)
+        {
+            _message = welcome.Message;
+        }
 
     }
 }
