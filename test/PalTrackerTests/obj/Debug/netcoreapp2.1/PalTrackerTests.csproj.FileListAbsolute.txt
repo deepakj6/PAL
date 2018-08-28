@@ -1,0 +1,17 @@
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTrackerTests.deps.json
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTrackerTests.runtimeconfig.json
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTrackerTests.runtimeconfig.dev.json
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTrackerTests.dll
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTrackerTests.pdb
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTracker.dll
+D:\Source\PAL\2\workspace\test\PalTrackerTests\bin\Debug\netcoreapp2.1\PalTracker.pdb
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.csprojAssemblyReference.cache
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.csproj.CoreCompileInputs.cache
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.AssemblyInfoInputs.cache
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.AssemblyInfo.cs
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.csproj.CopyComplete
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.dll
+D:\Source\PAL\2\workspace\test\PalTrackerTests\obj\Debug\netcoreapp2.1\PalTrackerTests.pdb
