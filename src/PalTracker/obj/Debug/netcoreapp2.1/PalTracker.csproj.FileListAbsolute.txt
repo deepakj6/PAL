@@ -11,4 +11,3 @@ D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.Asse
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.RazorTargetAssemblyInfo.cache
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.dll
 D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.pdb
-D:\Source\PAL\2\workspace\src\PalTracker\obj\Debug\netcoreapp2.1\PalTracker.csprojAssemblyReference.cache
